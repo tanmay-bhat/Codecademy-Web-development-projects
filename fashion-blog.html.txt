@@ -17,11 +17,6 @@
       <li>When Print Is Too Much</li>
       <li>The Overalls Trend</li>
       <li>Fall's It Color: Blush</li>
-      
-      
-      
-      
-      
     </ul>
     <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-one.jpeg" alt="SOME IMAGE" />
    <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-two.jpeg" />
